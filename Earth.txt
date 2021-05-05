@@ -5,5 +5,5 @@ Much of Earth's polar regions are covered in ice. Earth's outer layer is divided
 plates that migrate across the surface over many millions of years. Earth's interior remains active with a
 solid iron inner core, a liquid outer core that generates Earth's magnetic field, and a convecting mantle
 that drives plate tectonics.
-
+ I addded some stuff here.
 Taken from https://en.wikipedia.org/wiki/Earth
